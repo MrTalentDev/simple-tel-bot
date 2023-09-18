@@ -1,8 +1,4 @@
-# AmimeWatch
-
-A [Telegram](https://telegram.org/) bot to watch animes.
-
-Re-written version of [AmimeWatch](https://github.com/AmanoTeam/AmimeWatch/) in Rust.
+# Simple Telegram Bot
 
 ## Preparing
 
